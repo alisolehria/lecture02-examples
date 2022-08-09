@@ -10,7 +10,7 @@ public class Example2 {
 		int num1 = s.nextInt();
 		System.out.println("Enter the second number:");
 		int num2 = s.nextInt();
-		//comment
+		
 		int result = obj1.addition(num1, num2);
 		if(result < 0) {
 			System.out.println("Negative number");
